@@ -3,6 +3,6 @@
 
 <div align="center">
 
-![Captura de tela de 2023-02-01 21-18-47](https://user-images.githubusercontent.com/54086293/216199682-f5329c20-21ab-41b6-976e-bffe8205b749.png)
+![Captura de tela de 2023-02-02 22-26-57](https://user-images.githubusercontent.com/54086293/216489243-ec10db7d-cd68-418e-ad65-47a68ca37c76.png)
 
 </div>
